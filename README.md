@@ -34,3 +34,4 @@ To get started with this application, you'll need to have Go installed on your s
    ```bash
    git clone https://github.com/yourusername/p2p-file-transfer.git
    cd p2p-file-transfer
+   Make run
